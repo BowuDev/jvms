@@ -16,6 +16,8 @@ bleeding edge version without uninstalling the stable version of JDK, this utili
 - run `jvms.exe init`
 - Setup is complete ! Switch and install jdk see [Usage](#usage) Section
 
+Or if you have Go installed: `go install github.com/ystyle/jvms@latest`
+
 ![](images/powershell_2017-07-23_00-38-13.png)
 
 
